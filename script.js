@@ -28,7 +28,7 @@ const songs = [
         artist: "One Direction",
     },
     {
-        name: "ShauqHaibada",
+        name: "ShauqHaiBada",
         displayName: "Shauq hai bada",
         artist: "Amit Trivedi",
     },
